@@ -1,6 +1,3 @@
-# 💫 About Me:
-I like computer, and you
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -13,6 +10,10 @@ I like computer, and you
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
 
+![Bugs](http://i.imgur.com/K8vsw.gif "Bugs")
+
+# 💫 About Me:
+I like computer, and you
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dikayo05) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dikayo_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Dika yonanda putra) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Dikayo) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Jealous-Squash6039) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/dikayo05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yonandaputra05@gmail.com) 
